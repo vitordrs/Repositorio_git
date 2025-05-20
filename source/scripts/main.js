@@ -1,0 +1,3 @@
+function tarefaGulp(){
+    console.log("tudo funcionando");
+}
